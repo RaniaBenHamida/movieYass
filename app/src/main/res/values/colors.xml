@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="red">#F44336</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cornflower_blue">#305D8FF7</color>
+    <color name="puerto_rico">#41C6A3</color>
+
+
+
+
+    <color name="splash_progress_color">@color/eucalyptus_green</color>
+    <color name="splash_progress_underline_color">@color/dove_gray</color>
+    <color name="login_tv_password_lost_text_color">@color/puerto_rico_green</color>
+    <color name="login_btn_login_color">@color/eucalyptus_green</color>
+    <color name="bottom_nav_background_color">@color/eucalyptus_green</color>
+    <color name="bottom_nav_item_selected_color">@color/white</color>
+    <color name="bottom_nav_item_color">@color/jet_stream_green</color>
+    <color name="underline_color">@color/alto_gray</color>
+    <color name="switch_button_state_activated">@color/camarone_green</color>
+    <color name="switch_button_state">@color/tundora_gray</color>
+    <color name="separator_dash_color">@color/alto_gray</color>
+    <color name="item_container_zone_text_color">@color/alto_gray</color>
+    <color name="item_update_container_bg_color">@color/feta_green</color>
+    <color name="item_update_container_btn_save_color">@color/eucalyptus_green</color>
+    <color name="item_zone_start_button_stoke_color">@color/dove_gray</color>
+    <color name="item_zone_time_text_color">@color/tundora_gray</color>
+</resources>

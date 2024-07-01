@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="camarone_green">#006718</color>
+    <color name="eucalyptus_green">#267D6D</color>
+    <color name="puerto_rico_green">#41C6A3</color>
+    <color name="jet_stream_green">#BED8D3</color>
+    <color name="feta_green">#F5FEF6</color>
+    <color name="dove_gray">#707070</color>
+    <color name="tundora_gray">#414141</color>
+    <color name="alto_gray">#D3D3D3</color>
+    <color name="dusty_gray">#959595</color>
+    <color name="monza">#CB060D</color>
+</resources>

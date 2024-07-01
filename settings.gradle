@@ -1,0 +1,2 @@
+rootProject.name = "MovieTest" // Or your project name
+include ':app'
